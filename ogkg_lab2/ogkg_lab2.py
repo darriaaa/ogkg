@@ -1,3 +1,5 @@
+#Регіональний пошук. Метод 2-d дерева.
+
 import matplotlib.pyplot as plt 
 
 class Point:
